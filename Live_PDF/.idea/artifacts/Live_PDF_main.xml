@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Live_PDF.main">
+    <output-path>$PROJECT_DIR$/out/artifacts/Live_PDF_main</output-path>
+    <root id="root">
+      <element id="archive" name="Live_PDF_main.jar">
+        <element id="module-output" name="Live_PDF.main" />
+      </element>
+    </root>
+  </artifact>
+</component>
